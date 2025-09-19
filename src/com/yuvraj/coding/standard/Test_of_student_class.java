@@ -1,4 +1,4 @@
-package com_yuvraj_coding.standard;
+package com.yuvraj.coding.standard;
 
 
 public class Test_of_student_class {
