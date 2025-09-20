@@ -1,6 +1,6 @@
 package com.mahesh.codingstd;
 
-public class test {
+public class Test {
 
 	public static void main(String[] args) {
 
