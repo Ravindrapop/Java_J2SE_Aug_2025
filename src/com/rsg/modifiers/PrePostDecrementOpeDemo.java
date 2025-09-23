@@ -12,7 +12,6 @@ public class PrePostDecrementOpeDemo {
 		
 		int a = 4;
 		int b = a--;
-		
 		System.out.println("a = "+a+" b = "+b);
 
 	}
