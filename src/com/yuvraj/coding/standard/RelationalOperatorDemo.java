@@ -1,6 +1,6 @@
 package com.yuvraj.coding.standard;
 
-public class RelationOperatorDemo {
+public class RelationalOperatorDemo {
 	public static boolean lessthan(int a, int b) {
 		return (a < b);
 	}
