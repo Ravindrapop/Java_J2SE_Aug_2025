@@ -28,5 +28,6 @@ public class RelationalOperatorDemo {
 		System.out.println(lessthan_equal(2, 3));
 		System.out.println(greaterthan_equal(2, 3));
 		System.out.println(not_equal(2, 3));
+		System.out.println('a' > 'A');
 	}
 }
