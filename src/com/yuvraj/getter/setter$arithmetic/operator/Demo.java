@@ -1,4 +1,4 @@
-package com.yuvraj.coding.standard;
+package com.yuvraj.getter.setter$arithmetic.operator;
 
 public class Demo {
 
