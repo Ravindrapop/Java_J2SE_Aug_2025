@@ -8,6 +8,8 @@ public class Test {
 		System.out.println("gitbash");
 		
 		System.out.println("government school");
+		
+		System.out.println("cantoment school");
 	}
 
 }
