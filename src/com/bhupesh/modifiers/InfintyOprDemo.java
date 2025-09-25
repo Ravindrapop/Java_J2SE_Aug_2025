@@ -12,8 +12,11 @@ public class InfintyOprDemo {
 		
 		System.out.println(0/0);
 		
+		System.out.println(-0/0.0);
 		
 		System.out.println("Start...");
+		
+		System.out.println("End...");
 		
 	}
 	
