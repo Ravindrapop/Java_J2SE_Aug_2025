@@ -9,5 +9,6 @@ public class ArthmeticDemoExample {
 		System.out.println("Subtraction: " + (x - y));
 		System.out.println("Multiplication: " + (x * y));
 		System.out.println("Division: " + (x / y));
+		System.out.println("satish Gurjar");
 	}
 }
