@@ -1,4 +1,4 @@
-package com.yuvraj.coding.standard;
+package com.yuvraj.settergetterandoperators;
 
 
 public class Test_of_student_class {

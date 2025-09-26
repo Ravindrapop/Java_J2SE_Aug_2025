@@ -1,4 +1,4 @@
-package com.yuvraj.coding.standard;
+package com.yuvraj.settergetterandoperators;
 
 public class RelationalOperatorDemo {
 	public static boolean lessthan(int a, int b) {
