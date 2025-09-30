@@ -19,7 +19,13 @@ public class StuClient {
 		System.out.println(str1==str2);
 		
 		System.out.println(str1.equals(str2));
+		
+		Object obj = new Object();
 
+		String strr = new String("Hari");
+		
+		System.out.println(10/0);
+		
 	}
 
 }
