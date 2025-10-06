@@ -1,4 +1,4 @@
-package com.bhupesh;
+package com.jss.bhupesh;
 
 public class Student {
 	
