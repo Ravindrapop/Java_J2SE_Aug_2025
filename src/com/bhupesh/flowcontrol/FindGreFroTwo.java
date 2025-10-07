@@ -1,4 +1,4 @@
-package com.jss.bhupesh;
+package com.bhupesh.flowcontrol;
 
 public class FindGreFroTwo {
 
