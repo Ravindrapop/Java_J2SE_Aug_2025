@@ -1,4 +1,4 @@
-package com.bhupesh;
+package com.bhupesh.flowcontrol;
 
 public class Student {
 	
