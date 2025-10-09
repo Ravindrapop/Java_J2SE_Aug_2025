@@ -16,7 +16,7 @@ public class BitWiseOperatorDemo2 {
 		}
 	 
 		System.out.println("x = " +x+ " And" + "y = " +y);
-	
+		System.out.println("x = " +x+ " And" + " y = " +y);	
 		
 		
 		int a = 5;
@@ -29,8 +29,8 @@ public class BitWiseOperatorDemo2 {
 		else {
 			--b; //if both results are false then print this condition
 		}
-	
 		System.out.println("a = " +a+ " And" + "b = " +b);
+		System.out.println("a = " +a+ " And" + " b = " +b);
 	}
 
 }
