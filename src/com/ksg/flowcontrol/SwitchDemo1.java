@@ -4,8 +4,8 @@ public class SwitchDemo1 {
 	
 	public static void main(String[] args) {
 	
-		int x = 13;
-		switch(x) {
+		int x = 12;
+		switch(8) {
 		case 1:
 			System.out.println("jan");
 			break;

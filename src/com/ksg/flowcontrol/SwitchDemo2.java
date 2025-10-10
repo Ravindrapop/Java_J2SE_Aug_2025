@@ -4,14 +4,14 @@ public class SwitchDemo2 {
 
 	public static void main(String[] args) {
 
-		char ch = 'o';
-		switch (ch) {
+		char ch = '0';
+		switch ('e') {
 		case 'a':
 			System.out.println('a');
 			break;
 			
 		case 'e':
-			System.out.println('e');
+			System.out.println("result: "+'e');
 			break;
 			
 		case 'i':

@@ -4,9 +4,9 @@ public class SwitchDemo {
 
 	public static void main(String[] args) {
 		
-		int a = 10;
+		int a = 3;
 		
-		switch(9) {
+		switch(7) {
 		case 1: 
 			System.out.println("sunday");
 			break;
