@@ -7,7 +7,7 @@ public class SwitchDemo3 {
 		
 		double num1 = 10, num2 = 20;
 		
-		int x = '+';
+		int x = '-';
 		
 		double result;
 		

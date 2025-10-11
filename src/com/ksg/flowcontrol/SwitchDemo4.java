@@ -4,7 +4,7 @@ public class SwitchDemo4 {
 
 	public static void main(String[] args) {
 
-		int num = 11;
+		int num = 12;
 		switch(num%2) {
 		case 0:
 			System.out.println("num is: even");

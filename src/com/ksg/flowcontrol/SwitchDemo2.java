@@ -4,8 +4,8 @@ public class SwitchDemo2 {
 
 	public static void main(String[] args) {
 
-		char ch = '0';
-		switch ('e') {
+		char ch = 'e';
+		switch ('a') {
 		case 'a':
 			System.out.println('a');
 			break;
