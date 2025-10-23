@@ -4,7 +4,7 @@ public class ForLoopIterateArrayIndex {
 	
 	public static void main(String[] args) {
 		
-		int[] x = {7,14,21,28,35,42,49,56};
+		int[] x = {7,14,21,28,35,42,49,56,63,70};
 		
 		int l = x.length;
 		

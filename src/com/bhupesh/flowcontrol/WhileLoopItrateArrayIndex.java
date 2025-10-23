@@ -4,7 +4,7 @@ public class WhileLoopItrateArrayIndex {
 	
 	public static void main(String[] args) {
 		
-		char[] c = {'a','b','c','d'};
+		char[] c = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n'};
 		
 		int l = c.length;
 		int i = 0;
