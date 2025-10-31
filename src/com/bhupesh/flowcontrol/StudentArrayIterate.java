@@ -1,11 +1,11 @@
 package com.bhupesh.flowcontrol;
 
-public class Student2 {
+public class StudentArrayIterate {
 
       private String name;
       private int age;
       
-      public Student2(String name , int age) {
+      public StudentArrayIterate(String name , int age) {
     	  this.name = name;
     	  this.age = age;
       }
@@ -27,12 +27,12 @@ public class Student2 {
       }
       
     	  public static void main(String[] args) {
-    		  Student2[] s = new Student2[5];
-    		  s[0] = new Student2("Yuvraj",25);
-    		  s[1] = new Student2("Mahesh",28);
-    		  s[2] = new Student2("Abhishek",38);
-    		  s[3] = new Student2("Bhupesh",20);
-    		  s[4] = new Student2("Deepak",40);
+    		  StudentArrayIterate[] s = new StudentArrayIterate[5];
+    		  s[0] = new StudentArrayIterate("Yuvraj",25);
+    		  s[1] = new StudentArrayIterate("Mahesh",28);
+    		  s[2] = new StudentArrayIterate("Abhishek",38);
+    		  s[3] = new StudentArrayIterate("Bhupesh",20);
+    		  s[4] = new StudentArrayIterate("Deepak",40);
     		  
     		  int l = s.length;
     		  for(int i = 0; i<l; i++) {
@@ -42,7 +42,4 @@ public class Student2 {
     	  }
       
       
-		
-
-
 }
